@@ -1,5 +1,5 @@
 # Ismail Ashour
-## iStoria CTO
+### iStoria CTO
 
 - 🔭 I’m currently working on iStoria as a CTO.
 - 🌱 I’m currently learning tdd & pest.

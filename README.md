@@ -1,9 +1,5 @@
-## Hi there 👋
+# 💬 Ismail Ashour
 
-
-Here are some ideas to get you started:
-
-- 💬 Ismail Ashour
 - 🔭 I’m currently working on iStoria as a CTO.
 - 🌱 I’m currently learning tdd & pest.
 - 💞️ I’m looking to collaborate on Flutter testing techniques.

@@ -1,5 +1,5 @@
 # Ismail Ashour
-### iStoria CTO
+### iStoria Co-Gounder & CTO
 
 - 🔭 I’m currently working on iStoria as a CTO.
 - 🌱 Good experience in Laravel, Flutter & TDD.
